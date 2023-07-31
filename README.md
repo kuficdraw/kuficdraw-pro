@@ -34,3 +34,7 @@
 - تصدير العناصر المحددة أو البورد بالكامل كصورة شفافة من صيغة .png
 
 - التكامل مع برامجك المفضلة عن طريق تصدير العناصر المحددة أو البورد بالكامل على هيئة ملف .svg
+
+## الشاشات
+
+![](https://raw.githubusercontent.com/kuficdraw/kuficdraw-pro/main/ScreenShots/main.jpg)
