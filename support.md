@@ -5,8 +5,6 @@
   ### كيف يمكننا مساعدتك؟ (How can we help you?)
   
   *We're always happy to hear from you.*
-  
-  [العودة للرئيسية (Back to Home)](/)
 </div>
 
 ---
